@@ -1,3 +1,4 @@
+# Initial commit
 name: npm audit
 on:
   pull_request:
